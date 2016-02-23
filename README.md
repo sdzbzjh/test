@@ -4,6 +4,6 @@
 <h1>纠错部分<h1>
 <p>
 Output.html中根据书中有部分改动
-CheckValidity.html	
-CustomErrors.html	
+CheckValidity.html中根据书中有部分改动
+CustomErrors.html中根据书中有部分改动
 <p>
